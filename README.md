@@ -18,5 +18,5 @@ Using Perlin noise, by applying it to both the position and color of the dots, n
 ![An image of the code and output](readmeImages/CodeImage.png)
 
 *Link*
-[Link Text](https://www.geeksforgeeks.org/p5-js-noise-function/)
+[example implementation](https://www.geeksforgeeks.org/p5-js-noise-function/)
 
