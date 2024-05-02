@@ -1,4 +1,4 @@
-# Week8-QZ
+# Quiz 8
 
 ## Imaging Technique Inspiration
 ![An image of the P1](readmeImages/P1.jpg)
