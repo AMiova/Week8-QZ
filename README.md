@@ -1,10 +1,8 @@
 # Week8-QZ
 
 ## 艺术品选择
-![An image of the P1](readmeImages/P1.jpg
-Links to an external site.)
-![An image of the P2](readmeImages/P2.jpg
-Links to an external site.)
+![An image of the P1](readmeImages/P1.jpg)
+![An image of the P2](readmeImages/P2.jpg)
 
 
 
